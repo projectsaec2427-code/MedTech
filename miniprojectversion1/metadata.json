@@ -1,0 +1,6 @@
+{
+  "name": "MedTech",
+  "description": "An AI-powered full-stack healthcare platform for patients, doctors, and administrators with health tracking, appointment booking, medical chatbot, disease risk prediction, digital prescriptions, and health analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

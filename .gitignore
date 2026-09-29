@@ -1,0 +1,17 @@
+﻿# Dependencies
+miniprojectversion1/node_modules/
+miniprojectversion1/dist/
+miniprojectversion1/build/
+miniprojectversion1/coverage/
+
+# Environment files (sensitive)
+miniprojectversion1/.env
+miniprojectversion1/.env.*
+!miniprojectversion1/.env.example
+
+# OS
+.DS_Store
+*.log
+
+# Large data files
+miniprojectversion1/medtech_db.json
